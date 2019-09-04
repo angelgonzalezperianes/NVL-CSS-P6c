@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+
+ <html>
+  <head>
+   <meta charset="utf-8">
+   <title>Berenjenas con mozzarela a las finas hierbas</title>
+  <style>
+   div > p {
+  border: 2px, solid, fabada
+h1 {
+  
+}
+ ul {
+       font-family: Times;
+       font-weight: normal;
+       font-variant: normal;
+}
+h1  {  
+       font: italic bold 16px
+       background-color: #bbb
+       text-decoration: underline;
+}      	
+h2  {  
+       font: italic bold 12px
+       background-color: #bbb
+       text-decoration: underline;
+[class="container"] { 
+       font-family: Times;
+       background-color: #bbb {
+}
+  </style>
+ </head>
+ <body>
+   <div id="main">  
+    <p>Hoy vamos a enseñaros a hacer esta facilísima <strong>receta de berenjenas con mozzarella</strong>, con la que podréis quedar como grandes chefs ante vuestros amigos, familia o pareja. Su sabor es perfecto con una salsa casera de tomate igual de fácil de preparar. Es ideal para una comida sin carne o para la cena. ¡Vamos a ello!<p/></div>
+     <div> class= "imagen-container">
+      <img src="imagen_berenjenas.jpg" width="350px" height="500px" alt="Plato preparado de berenjenas con mozzarella">
+     </div>
+      <h1 id="titulo-introduccion">Ingredientes</h1>
+      <h2>Para dos personas</h2>
+     <div class=container">
+      <ul>
+        <li><strong>2 berenjenas</strong></li>
+    	<li><strong>250 g de queso mozzarella</strong></li>
+ 	<li><strong>1 cebolla</strong></li>
+ 	<li><strong>3 tomates</strong></li>
+ 	<li><strong>10 g de finas hierbas</strong></li>
+ 	<li><strong>15 ml de aceite de oliva></strong></li>
+ 	<li><strong>Sal al gusto</strong></li>
+	<li><strong>Pimienta negra molida al gusto</strong></li>
+      </ul>
+     <h1 id="titulo-preparacion">Cómo hacer berenjenas con mozzarella</h1>
+   <div id="introduccion">  
+    <p>Hoy vamos a enseñaros a hacer esta facilísima <strong>receta de berenjenas con mozzarella</strong>, con la que podréis quedar como grandes chefs ante vuestros amigos, familia o pareja. Su sabor es perfecto con una salsa casera de tomate igual de fácil de preparar. Es ideal para una comida sin carne o para la cena. ¡Vamos a ello!<p/></div>
+     <h1 id="titulo-introduccion">Ingredientes</h1> 
+      <h2>Dificultad: media</h2>
+       <div class="container">
+	<ul>
+        <li><strong>Tiempo total: 50 minutos</strong></li>
+    	<li>Elaboración: <strong>20 minutos</strong></li>
+ 	<li>Cocción <strong>30</strong></li>
+       </ul>
+    <div id="descripcion">  
+    <p>Vamos a preparar primero la salsa de tomate poniendo los tomates maduros a hervir en una olla con medio litro de agua. Los dejamos unos 10 minutos para luego retirarlo y pelarlos. Para este momento la piel que retirará casi sola. <strong>Picamos la cebolla y el diente de ajo que ponemos a freír en una olla con un par de cucharadas de aceite de oliva.</strong><p/></div>
+    <p>Enseguida les agregamos los tomates y unos 200ml de agua. Sazonamos con sal, pimienta y las finas hierbas. Dejamos que hierva y pasamos por el procesador de alimentos rápidamente. No queremos aquí una consistencia demasiado líquida por lo que no lo procesen mucho tiempo.</p>
+    <p>Ahora vamos a <strong>pelar las berenjenas y cortarlas en rodajas</strong>. Las salamos de ambos lados y ponemos en un plato para horno previamente engrasado con un poco de aceite de oliva. Recubrimos las rodajas de berenjena con una parte de la salsa de tomate y de queso mozzarella. Volvemos a colocar un nuevo nivel de berenjenas y repetimos la salsa y el queso. <strong>Ponemos en el horno caliente, a 180ºC, por unos 30 a 35 minutos.</strong></p> 	
+    <form>
+       <label for="nombre">Nombre:</label>
+       <input type="text" id="nombre" placeholder="Escribe tu nombre">
+
+       <label for="email">Email:</label>
+       <input type="text" id="nombre" placeholder="Escribe tu mail">
+
+       <label for="mensaje">Mensaje:</label>
+       <textarea id="mensaje" placeholder="Escribe tu mensaje"> 
+
+       <input type="submit value="Enviar">
+</body>
+</html>
